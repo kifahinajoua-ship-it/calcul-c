@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Programme qui calcule la somme de deux entiers
 
 int main() {
     int a, b, somme;
